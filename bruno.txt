@@ -1,3 +1,4 @@
 Nome: Bruno Mendes de Moraes
 End: Rio Grande do Sul, 396 - Sao Caetano do Sul
-Empresa: Microsoft
+Empresa: Microsoft do Brazil
+Função: PTS
